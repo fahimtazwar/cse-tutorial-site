@@ -1,0 +1,713 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body, html {
+    height: 100%;
+}
+
+/*LoginPage*/
+
+.backGImage{
+	background-image: url("../projectimage/loginBackground.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainer{
+	border: 10px solid;
+	padding: 30px 40px;
+	background-color:#021138;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}
+
+.temp0{
+	font-size: 20px;
+	text-align: center;
+	color: red;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+}
+.temp1{
+	color: white;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	
+}
+.temp2{
+	text-align: center;
+}
+
+
+
+  /* RegistrationPage*/
+
+
+
+.backGImageForReg{
+	background-image: url("../projectimage/registerpic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.temp00{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+}
+
+.LogInContainerReg{
+	border: 10px solid;
+	padding: 30px 40px;
+	background-color:black;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}
+
+
+    /* OneOneCourseName*/
+	
+	
+.LogInContainerOneOne{
+	
+	padding: 30px 40px;
+	margin-top: 150px;
+	
+	margin-bottom: 150px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+
+
+.CourseBg{
+	background-image: url("../projectimage/CourseBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.line1{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	
+	
+	
+}
+
+.line2{
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	
+	
+	
+}
+
+/*OneTwoCourseName*/ 
+
+.OneTwoPic{
+	background-image: url("../projectimage/javaBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainerOneTwo{
+	
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	
+	
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+
+/*TwoOneCourseName*/ 
+
+.TwoOnePic{
+	background-image: url("../projectimage/DsBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainerTwoOne{
+	
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	
+	
+	
+}	
+
+/*TwoTwoCourseName*/ 
+
+.TwoTwoPic{
+	background-image: url("../projectimage/TwoTwoBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainerTwoTwo{
+	
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	
+	
+}	
+
+
+/*ThreeOneCourseName*/ 
+
+.ThreeOnePic{
+	background-image: url("../projectimage/ThreeOneBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainerThreeOne{
+	
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+
+}	
+
+
+/*ThreeTwoCourseName*/ 
+
+.ThreeTwoPic{
+	background-image: url("../projectimage/ThreeTwoBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainerThreeTwo{
+	
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	
+	
+}	
+
+
+/*FourOneCourseName*/ 
+
+.FourOnePic{
+	background-image: url("../projectimage/FourTwoBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainerFourOne{
+	
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	
+	
+}	
+
+/*FourTwoCourseName*/ 
+
+.FourTwoPic{
+	background-image: url("../projectimage/FourTwoBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainerFourTwo{
+	
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	
+}	
+
+/* ContactPage */
+
+
+.backGImageForContact{
+	background-image: url("../projectimage/ContactBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.adminEmail{
+	font-size: 22px;
+	text-align: center;
+	font-weight: bold;
+	text-decoration: underline;
+	color:yellow;
+}
+
+.adminEmail2{
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	
+}
+
+.temp011{
+	font-size: 20px;
+	color: white;
+	font-weight: bold;
+	
+}
+
+.temp000{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+	
+}
+
+.LogInContainerContact{
+	border: 1px solid;
+	padding: 30px 40px;
+	margin-top: 100px;
+	margin-bottom:100px;
+	background-color:black;
+	
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+.areaclass{
+	
+	width:80%;
+	font-size:20px;
+	
+}
+
+
+  /* SettingPage*/
+
+
+
+.backGImageForSetting{
+	background-image: url("../projectimage/settingBgPic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+.LogInContainerSetting{
+	border: 10px solid;
+	padding: 30px 40px;
+	background-color:black;
+	margin-top: 150px;
+	margin-bottom: 150px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}
+.temp0000{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	text-decoration: underline;
+	font-weight: bold;
+	font-style: italic;
+}
+
+/* From Two One */
+
+.LogInContainerFromTwoOne{
+	border: 1px solid;
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	background-color:green;
+	
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+/* From Three One */
+
+.LogInContainerFromThreeOne{
+	border: 1px solid;
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	background-color:green;
+	
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+/* From Four One */
+
+.LogInContainerFromFourOne{
+	border: 1px solid;
+	padding: 30px 40px;
+	margin-top: 150px;
+	margin-bottom:150px;
+	background-color:green;
+	
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+/*Inside C*/
+.LogInContainerOneOneInsideC{
+	border: 1px solid;
+	padding: 30px 40px;
+	margin-top: 150px;
+	background-color:black;
+	margin-bottom: 150px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+
+
+/*Admin Panel*/
+
+
+.backGImageForAdminPanel{
+	background-image: url("../projectimage/Bg_Admin_Panel.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+
+
+.LogInContainerAdminPanel1{
+	border: 1px solid;
+	padding: 30px 40px;
+	margin-top: 100px;
+	margin-bottom:100px;
+	background-color:#800080;
+	
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+.LogInContainerAdminPanel2{
+	border: 1px solid;
+	padding: 30px 40px;
+	margin-top: 100px;
+	margin-bottom:100px;
+	background-color:#808000;
+	
+	
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+
+.ap{
+	
+	font-size: 60px;
+	text-align: center;
+	color: blue;
+	font-weight: bold;
+	font-style: italic;
+	background-color:red;
+	
+}
+
+.temp000a{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	font-weight: bold;
+	font-style: italic;
+}
+/*admin add*/
+
+.backGImageForAdminAdd{
+	background-image: url("../projectimage/Bg_admin_add.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+
+
+.LogInContainerAdminAdd{
+	border: 1px solid;
+	padding: 30px 40px;
+	margin-top: 100px;
+	margin-bottom:100px;
+	background-color:black;
+	
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}	
+
+/*LogInContainerContactFrom_C*/
+
+.LogInContainerContactFrom_C{
+	
+	padding: 30px 40px;
+	margin-top: 100px;
+	margin-bottom:100px;
+	
+
+}
+
+/*hover*/
+
+
+.zoom {
+   
+    transition: transform .2s;
+   
+   
+}
+
+.zoom:hover {
+    -ms-transform: scale(1.3); /* IE 9 */
+    -webkit-transform: scale(1.3); /* Safari 3-8 */
+    transform: scale(1.3); 
+}
+
+
+/*LogInContainerContactFrom_CC*/
+
+.LogInContainerContactFrom_CC{
+	
+	padding: 30px 40px;
+	margin-top: 100px;
+	margin-bottom:100px;
+	
+}
+.temp000aa{
+	font-size: 20px;
+	text-align: center;
+	color: white;
+	margin-left:80px;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.blockcenter{
+	
+	margin-top: 150px;
+}
+	
+.just{
+	border: 10px solid;
+	padding: 30px 40px;
+	background-color:black;
+	margin-top: 60px;
+	
+	
+}
+	
+
+.areaclassaa{
+	border: 5px solid;
+	border-color:blue;
+	width:80%;
+	font-size:20px;
+	background-color:#859B94  ;
+}
+
+/*about us*/
+
+.backGImageForabout{
+	background-image: url("../projectimage/aboutpic.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+
+
+.LogInContainerabout{
+	border: 10px solid;
+	padding: 30px 40px;
+	background-color:black;
+	margin-top: 60px;
+	margin-bottom: 150px;
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0, 0.75);
+}
+
+.h111{
+	font-size: 50px;
+	text-align: center;
+	color: white;
+	text-shadow: 2px 2px 5px red;
+	
+	font-style:italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
+	
+.p111{
+	font-size: 30px;
+	margin-top: 50px;
+	color: white;
+	
+	font-weight: bold;
+}
+	
+.uptodown{
+	
+	text-align: center;
+	
+}
+
+.uptodown2{
+	
+	margin-left:20px;
+	
+}
+
+.uptodown3{
+	
+	margin-left:1200px;
+	
+}
+
+img:hover {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
+
+/*private */
+
+
+/*footer*/
+
+.footer{
+	background: black;
+	height:80px;
+}
+
+
+.footer-text{
+  padding-top:20px;
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+/*
+.logoo
+{ 
+	background-image:url("../projectimage/Bg_Admin_Panel.jpg");
+	width: 20%;
+	height:50%;
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin-left:5%;
+	margin-top:8%;
+}
+*/
+/*review*/
+.hhh{
+	font-size: 30px;
+	color: #CD5C5C;
+	font-style:italic;
+	font-weight: bold;
+	text-decoration: underline;
+}
+.hh{
+	font-size: 20px;
+	color: white;
+	
+}
+.backGImageReview{
+	background-image: url("../projectimage/reviewPage.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	background-attachment:fixed;
+	width: 100%;
+	height: auto;
+}
+
+

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+header{
+	background:black;
+	color:white;
+	padding: 8px 0px 6px 40px;
+	height:50px;
+}
+
+header h1{
+	display: inline;
+	font-family: 'Oswald', sans-serif;
+	font-weight:400;
+	font-size:32px;
+	float:left;
+	margin-top:0px;
+	margin-right:12px;
+
+}
+
+nav ul{
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type:none;
+	color:white;
+	float:left;
+	margin:12px;
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+#nav{
+	font-family: 'Montserrat', sans-serif;
+}
+.sky{
+	background-image:url("../projectimage/1.jpg");
+	width: 100%;
+	height:30%;
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin:0;
+	padding:0;
+}
+.skyw{
+	margin-left:35%;
+	padding-top:1%;
+	font-style:bold;
+	font-family: 'Oswald', sans-serif;
+}
+.skyw1
+{
+	margin-left:43%;
+}
+.skyw2
+{
+	margin-left:40%;
+}
+.skyw3
+{
+	margin-left:32%;
+	font-style:bold;
+	
+}
+.pic{
+	background-image:url("../projectimage/slider3.jpg");
+	width: 100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin-left:20%;
+	padding:10px;
+}
+.last{
+	height:70%;
+	weight:100%;
+	background-color:rgb(3,129,141);
+}

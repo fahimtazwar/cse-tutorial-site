@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@import url('https://fonts.googleapis.com/css?family=Merienda');
+
+header{
+	background:rgb(96,0,15);
+	color:white;
+	padding: 8px 0px 6px 40px;
+	height:50px;
+}
+
+header h1{
+	display: inline;
+	font-family: 'Oswald', sans-serif;
+	font-weight:400;
+	font-size:32px;
+	float:left;
+	margin-top:0px;
+	margin-right:12px;
+
+}
+
+nav ul{
+	display: inline;
+	padding: 0px;
+	float: left;
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type:none;
+	color:white;
+	float:left;
+	margin:12px;
+}
+nav ul li a{
+	color: white;
+	text-decoration: none;
+}
+#nav{
+	font-family: 'Montserrat', sans-serif;
+}
+.sky{
+	background-image:url("../projectimage/x11.jpg");
+	width: 100%;
+	height:100%;
+	background-repeat:no-repeat;
+	background-position: center;
+	
+	background-size: cover;
+	margin:0;
+	padding:0;
+}
+.skyw{
+	
+	margin-left:5%;
+	padding-top:1%;
+	font-style:bold;
+	font-family: 'Oswald', sans-serif;
+	font-size:100px;
+	
+	text-shadow: 2px 2px 5px red;
+	
+	
+}
+.skyw1
+{
+	margin-left:5%;
+
+}
+
+.logo
+{ 
+	background-image:url("../projectimage/logo.jpg");
+	width: 5%;
+	height:10%;
+	background-repeat:no-repeat;
+	background-size: cover;
+	margin-left:5%;
+	margin-top:8%;
+}
+.skyw2
+{
+	margin-left:5%;
+	color:red;
+
+
+}
+.skyw3
+{
+	margin-left:5%;
+
+	font-style:bold;	
+}
+.skyw4
+{
+	margin-left:5%;
+	color:red;
+}
+.wood{
+	background-image:url("../projectimage/wood.jpg");
+	height:100%;
+	width:100%;
+	background-repeat:no-repeat;
+	background-size: cover;
+	background-attachment:fixed;
+	margin:0;
+	padding:0;
+}
+.row
+{ 
+	margin:0px;
+	padding:5% 0% 0% 32%;
+	font-family:'Montserrat', sans-serif;
+	color:rgb(96,0,15);
+}
+.container{
+	padding:0% 0% 5% 0%;
+}
+.circle{
+	
+	background-color:rgb(3,129,141);
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	
+}
+.row2{
+	margin: 0%;
+
+}
+.rowbelow{
+	margin:5% 0% 0% 25%;
+	padding:0%;
+}
+.footer{
+	height:15%;
+	width:100%;
+	background-color:black;
+	margin:0%;
+	padding:0%;
+	text-align:center;
+	font-family:italic;
+}

@@ -1,0 +1,222 @@
+1.1 -->
+
+* C
+
+https://www.youtube.com/watch?v=vBLLRDi7X3c&list=PLKiZXxQe7OiCkea0KBLIjkifR-zOnSKRH
+
+
+* Introduction to computer systems
+
+https://www.youtube.com/watch?v=z3KnlfATUek&list=PLYsKWjcnp5DKS0wdoYR2FA0gt25jjBAlV
+
+
+
+
+1.2 -->
+
+* java
+
+https://www.youtube.com/watch?v=17UOVwXFzls&list=PLgLCjVh3O6ShdxHZKRVyAP3oTH9sMMqRf
+
+
+*discrete mathematics
+
+https://www.youtube.com/watch?v=pKjrK-yEYFI&list=PLYx-Huwyr19hDr9_9eZ4RJVEUlqvgfWBj
+
+
+
+*sd-1
+
+https://www.youtube.com/watch?v=v-7cjKj7kOk&list=PLgLCjVh3O6Sg6c88e4UKz81V9eNB6fqWK
+
+
+2.1 -->
+
+* data structure
+
+https://www.youtube.com/watch?v=9Uapfnbag8k&list=PLgLCjVh3O6Sim5bsg0FJ3qGbvM6qtdxQe
+
+*dld
+
+https://www.youtube.com/watch?v=kgTkzq_My9E&list=PLKiZXxQe7OiCpRWjor5buLxwVAUfu6oEY
+
+
+*sd-2
+
+https://www.youtube.com/watch?v=42MXbPqLWGI&list=PLgLCjVh3O6ShjiJ0-Ls8LfPTKCRvyRo1G
+
+
+https://www.youtube.com/watch?v=XAf09iP-P0Y&list=PLgLCjVh3O6Sj-qWXC0ZD_hO09KAKySodd
+
+
+
+2.2 -->
+
+*algorithms
+
+https://www.youtube.com/watch?v=sqzquGjvFCM&list=PLKiZXxQe7OiAipuezfE6udFFAhd1gNUhL
+
+*dept
+
+https://www.youtube.com/watch?v=_gk1AhFqPlo&start_radio=1&list=RD_gk1AhFqPlo
+
+*sd-3
+
+https://www.youtube.com/watch?v=Mlsujl9cvsQ&list=PLgLCjVh3O6SieqLc4L8Dn0uy0Aq3aYZiO
+
+*numerical methods
+
+https://www.youtube.com/watch?v=_3i6oqQoukw&list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z
+
+
+*computer architecture
+
+https://www.youtube.com/watch?v=4TzMyXmzL8M&list=PL59E5B57A04EAE09C
+
+*assembly language programming
+
+https://www.youtube.com/watch?v=OdlQByyiTR4&list=PLKiZXxQe7OiD8UrEPx5GDhzOwEaNujSeL
+
+
+3.1 -->
+
+*database
+
+https://www.youtube.com/watch?v=zNxX1Z_ZPG4&list=PLq-GCshN1eDB5L5Frxfq9JHIBtkHrOm86
+
+
+*microprocessor
+
+
+
+https://www.youtube.com/watch?v=-i3-Y-5qyho&list=PLt5syl71JKf1LxFQOcRJyD3zI_gHh7ki9
+
+
+
+
+*dsd
+
+
+https://www.youtube.com/watch?v=lRe3nV9WaNc&list=PLKiZXxQe7OiA8JhKYlCyuY9zgdTmgxuR7
+
+
+
+*mathematical analysis for computer science
+
+https://www.youtube.com/watch?v=eHfhpAhGdvY&list=RDeHfhpAhGdvY&start_radio=1
+
+
+*sd-4
+
+https://www.youtube.com/watch?v=SpnEq4ir_jo&list=PLKiZXxQe7OiAi-I29sGkOeYIs2BD5Xqv8
+
+
+https://www.youtube.com/watch?v=MwIhHXCUvjc&list=PLXrLl0KJU00QDWGxZB-ey38Dm4a6FLq_4
+
+ (bootstrap) :  
+
+ https://www.youtube.com/watch?v=aXRS-YzWyJw&list=PLm64fbD5OnxuWrqDWyObVkH_Y5R6Wg1wg
+
+ https://www.w3schools.com/bootstrap/bootstrap_forms_inputs2.asp 
+
+
+3.2 -->
+
+*sd-5
+
+*data communication
+
+
+https://www.youtube.com/watch?v=sG6WGvzmVaw&list=PL374944B232C0B48E
+
+
+*operating system
+
+
+https://www.youtube.com/watch?v=2MDGaBFuwSM&list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq
+
+
+*microcontroller based system design
+
+
+  https://www.youtube.com/watch?v=hOqpTM1raOo
+
+
+*information system design and software engineering
+
+  https://www.youtube.com/watch?v=3eOFhFPNHgs
+
+
+
+
+4.1 -->
+
+* thesis ideas
+
+https://www.youtube.com/watch?v=v71302KBsyc&t=0s&index=3&list=LL0jKcg3jQs6KDhaAAaaeGow
+
+
+https://www.youtube.com/watch?v=BGJojfRFWJo&t=0s&index=2&list=LL0jKcg3jQs6KDhaAAaaeGow
+
+
+
+*computer network
+
+https://www.youtube.com/watch?v=owMiepWruLk&list=PL8H64izDQtAsLb-sIHmByc27VOyaCstf7
+
+*artificial intelligence
+
+
+https://www.youtube.com/watch?v=J7LqgglEfQw&list=PL9zFgBale5fug7z_YlD9M0x8gdZ7ziXen
+
+
+
+*distributed database system
+
+
+https://www.youtube.com/watch?v=Q1RIpXS7lPc&list=PLV8vIYTIdSnbAW2wj_TiHyrFJId5zkhz2
+
+
+*formal languages and compilers
+
+
+https://www.youtube.com/watch?v=Qkwj65l_96I&list=PLEbnTDJUr_IcPtUXFy2b1sGRPsLFMghhS
+
+
+4.2 -->
+
+*computer graphics
+
+
+https://www.youtube.com/watch?v=YuGBXnzeIEM&list=PLILRWwB1DLCXy4x-Nt0AT30k2Ob7_1ABG
+
+
+*pattern recognition
+
+
+https://www.youtube.com/watch?v=d4dJIMySjKU&list=PLY55HLLpRZWoNsZyOoprUQctvQq_-Xxq_
+
+
+*network programming 
+
+https://www.youtube.com/watch?v=aB53R8nJGAg&list=PL0XxENKEbYOksGlc6TU9DXL07QlsRPasw
+
+
+
+*telecommunication
+
+
+https://www.youtube.com/watch?v=c024R2vTE74&list=PLc5cqs7dgjxxu6B1hu9tKcPNCAViY7HDy
+
+
+*digital image processing
+
+
+https://www.youtube.com/watch?v=-cSVGwAwZZ4&list=PLEo-jHOqGNyUWoCSD3l3V-FjX9PnHvx5n
+
+
+
+***  AUST CSE Projects Showcase ***
+
+https://www.youtube.com/watch?v=v4pwe6K1HG8&list=PLKiZXxQe7OiCN7cwclBo7Yw-cDewxOTn8
+
